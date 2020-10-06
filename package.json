@@ -1,0 +1,23 @@
+{
+  "name": "jswebscrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer-core": "^5.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrR3set/lectio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrR3set/lectio/issues"
+  },
+  "homepage": "https://github.com/MrR3set/lectio#readme"
+}
